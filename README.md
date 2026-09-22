@@ -1,4 +1,4 @@
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+<img src="https://raw.githubusercontent.com/Abhay-Saini06/Abhay-Saini06/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 
 ### Abhay Saini — what these towers mean
 
